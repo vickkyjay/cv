@@ -1,8 +1,8 @@
 <html>
 <head>
 <meta charset="utf-8"> 
-<title>victoria' personal site</title>
-<link rel="stylesheet" href="./css.css">
+  <title>victoria' personal site</title>
+
 </head>
 <body style="background-color: rgb(83, 156, 168;">
   <table cellspacing="20" >
@@ -94,7 +94,6 @@
     <label>password </label>
     <input type="password"> 
     <input type="submit">
-    <br>
     <label>your email:</label>
     <input type="email">
     <br>
