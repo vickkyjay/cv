@@ -7,7 +7,7 @@
 <body>
   <table cellspacing="20" >
       <tr>
-       <td> <img src="C:\Users\T.MARK\Desktop\vickkyjay\IMG_20200126_103409_731~2.jpg" height="200" width="150"></img></td> 
+       <td> <img src="./images/IMG_20200126_103409_731~2.jpg" height="200" width="150"></img></td> 
        <td><h1>VICTORIA</h1>
         <P><strong><em>VICKKJAY LOVE</em></strong></P></td>      </tr>
   </table>  
